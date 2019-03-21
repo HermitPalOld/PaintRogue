@@ -9,10 +9,10 @@ Art: OrayStudios
 
 Voice: Larutschsworld 
 
+Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
 ### Instructions
 Download a zip from projects folder.
 I recommend creating a repo for yourself. 
-Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
 
 ### License
 
