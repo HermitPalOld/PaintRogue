@@ -1,5 +1,5 @@
 # Paint Rogue
-## By HermitPal
+### By HermitPal
 
 2d Platformer, Roguelite, Shooter, Multiplayer
 
