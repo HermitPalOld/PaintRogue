@@ -4,10 +4,15 @@
 
 ### Credit
 Programmer,Design,Audio,Voice,Music,Animation: HermitPal 
+
 Music: Joel Taylor
+
 Music:
+
 Art: OrayStudios
+
 Art: 
+
 Voice: Larutschsworld 
 
 ### Download any .zip from /project
