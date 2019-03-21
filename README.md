@@ -16,7 +16,7 @@ Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
 Copyright (c) 2019 Andrew Von Stieglitz
 https://creativecommons.org/licenses/by-nc/3.0/au/
 
-#### 1. Contact me @hermitpal(https://twitter.com/HermitPal) and I may provide you with an alternate license.
+#### 1. Contact me [@hermitpal](https://twitter.com/HermitPal) and I may provide you with an alternate license.
 #### 2. You may not compile/export to the following platforms:
     Nintendo Switch
     
