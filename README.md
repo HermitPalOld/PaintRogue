@@ -13,7 +13,7 @@ Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
 
 ### License
 
-Copyright (c) 2019 Andrew Von Stieglitz
+Copyright (c) 2019 Andrew Von Stieglitz, Eve Von Stieglitz
 https://creativecommons.org/licenses/by-nc/3.0/au/
 
 #### 1. Contact me [@hermitpal](https://twitter.com/HermitPal) and I may provide you with an alternate license.
@@ -50,5 +50,3 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
       You can edit the splash screen but it must display for more than 0.5 seconds
       
 ##### 5. You may not charge money for any variation of this game unless you get permission from me.
-
-note: All pronouns such as me and I refer to Andrew Von Stieglitz also known as Eve 'HermitPal' Von Stieglitz.
