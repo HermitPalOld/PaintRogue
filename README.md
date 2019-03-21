@@ -9,12 +9,9 @@ Art: OrayStudios
 
 Voice: Larutschsworld 
 
-### Download any .zip from /project
-
+### Instructions
+Download a zip from projects folder.
 I recommend creating a repo for yourself. 
-
-### Software
-
 Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
 
 ### License
