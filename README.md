@@ -48,7 +48,7 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
     
     Canonical Ubuntu {+Linux OS Family}
     
-    W3C html5 {+Web based platforms}
+    W3C html5 {+Web Based Platforms}
     
 ##### 4. You must attribute by doing the following:
     Keep the credits option
