@@ -1,6 +1,7 @@
 # Paint Rogue
-### By HermitPal
+## By HermitPal
 
+###Description
 2d Platformer, Roguelite, Shooter, Multiplayer
 
 ### Credit
@@ -64,7 +65,7 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
       
 ##### 5. You may not charge money for any variation of this game unless you get permission from me
 
-### By HermitPal ###
+### Thank You ###
 Thanks for downloading and enjoy! <3
 
 Please refer to me as 'Eve' or 'HermitPal'
