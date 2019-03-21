@@ -1,12 +1,11 @@
 # Paint Rogue
 ## By HermitPal
+Programmer,Designer,Animator,Sfx,Art,Music,Voice,
 
 ### Description
 2d Platformer, Roguelite, Shooter, Multiplayer
 
 ### Credit
-**Programmer,Design,Audio,Voice,Music,Animation: HermitPal** 
-
 Music: Joel Taylor
 
 Music: Hazemtarek4
