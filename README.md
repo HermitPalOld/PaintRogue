@@ -60,5 +60,7 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
 
 ### By HermitPal ###
 Thanks for downloading and enjoy! <3
+
 Please refer to me as 'Eve' or 'HermitPal'
+
 If dealing with offical matters then you can refer to me as 'Andrew'
