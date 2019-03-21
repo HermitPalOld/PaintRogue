@@ -2,10 +2,17 @@
 
 2d Platformer, Roguelite, Shooter, Multiplayer
 
-### Getting Started
+### Credit
+Programmer,Design,Audio,Voice,Music,Animation: HermitPal 
+Music: Joel Taylor
+Music:
+Art: OrayStudios
+Art: 
+Voice: Larutschsworld 
 
-I recommend creating a repo for yourself and putting a project in that repo.
-Download any .zip file from the projects folder.
+### Download any .zip from /project
+
+I recommend creating a repo for yourself. 
 
 ### Software
 
@@ -13,7 +20,7 @@ Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
 
 ### License
 
-Copyright (c) 2019 Eve 'HermitPal' Von Stieglitz
+Copyright (c) 2019 Andrew Von Stieglitz
 https://creativecommons.org/licenses/by-nc/3.0/au/
 
 #### 1. Contact me [@hermitpal](https://twitter.com/HermitPal) and I may provide you with an alternate license.
@@ -49,4 +56,9 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
     Keep the splash screen
       You can edit the splash screen but it must display for more than 0.5 seconds
       
-##### 5. You may not charge money for any variation of this game unless you get permission from me.
+##### 5. You may not charge money for any variation of this game unless you get permission from me
+
+### By HermitPal ###
+Thanks for downloading and enjoy! <3
+Please refer to me as 'Eve' or 'HermitPal'
+If dealing with offical matters then you can refer to me as 'Andrew'
