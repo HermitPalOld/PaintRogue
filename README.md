@@ -3,7 +3,7 @@
 2d Platformer, Roguelite, Shooter, Multiplayer
 
 ### Credit
-##Programmer,Design,Audio,Voice,Music,Animation: HermitPal 
+#### Programmer,Design,Audio,Voice,Music,Animation: HermitPal 
 
 Music: Joel Taylor
 
