@@ -7,11 +7,11 @@ Programmer,Design,Audio,Voice,Music,Animation: HermitPal
 
 Music: Joel Taylor
 
-Music:
+Music: Hazemtarek4
 
 Art: OrayStudios
 
-Art: 
+Art: cvs2002
 
 Voice: Larutschsworld 
 
