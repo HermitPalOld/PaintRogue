@@ -8,11 +8,7 @@ Programmer,Designer,Animator,Sfx,Art,Music,Voice,
 ### Credit
 Music: Joel Taylor
 
-Music: Hazemtarek4
-
 Art: OrayStudios
-
-Art: cvs2002
 
 Voice: Larutschsworld 
 
