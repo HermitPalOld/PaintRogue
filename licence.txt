@@ -3,35 +3,33 @@ Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-
 1. Contact me @hermitpal and I may provide you with an alternate license.
 2. You may not charge money for any variation of this game unless you get permission from me
 3. You may not compile/export to the following platforms:
-Valve Corp. Steam
+Steam
 
 Epic Games Store
 
 Nintendo Switch
 
-Sony PlayStation 4
+PlayStation 4
 
-Microsoft Xbox One
+Xbox One
 
-Google Android 
+Android 
 
-Apple Ios
+Ios
 
-Amazon Fire
+Fire
 
-Any future consoles {i.e Sony Playstation 5}
-
-Any future phone-based operating systems {i.e Android 2.0}
 4. You may only compile/export to the following platforms:
 Microsoft Windows 7/8/10+
 
-Apple macOS(X) 10.0+
+macOS 10.0+ {+macOSX}
 
-Canonical Ubuntu {+Linux OS Family}
+Ubuntu {+Linux OS Family}
 
-W3C html5 {+Web Based Platforms}
+html5 {+Web Based Platforms}
 
-Leaf Corcoran itch.io
+itch.io {+Kongregate and Newgrounds}
+
 5. You must attribute by doing the following:
 Keep the credits option
   You can edit the credits screen but musicians, artists and developers names must remain unedited
