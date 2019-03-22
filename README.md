@@ -4,9 +4,7 @@ Supported Platforms: Windows, macOS, Ubuntu.
 Download the most recent version [here](https://github.com/hermiteve/PaintRogue/releases).
 
 ## Licence
-Please read licence.txt.
-
-In summary: 
+Summary: 
 - If you want the agreement to change contact me.
 - Without permession please don't make commercial releases of this project.
 - Don't compile/export to Xbox,Switch and Playstation
