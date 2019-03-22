@@ -6,9 +6,6 @@ Developer:
 HermitPal
 Based in Sydney,Australia
 
-Release Date:
-2019-2020
-
 Platforms:
 - Late 2019: Windows
 
