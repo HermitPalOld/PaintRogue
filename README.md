@@ -3,8 +3,6 @@
 ## By HermitPal
 
 ### Credit
-Developer: HermitPal
-
 Music: Joel Taylor
 
 Art: OrayStudios
