@@ -2,7 +2,7 @@
 ## By HermitPal
 
 ### Credit
-Creator: Andrew 'Eve' 'HermitPal' Von Stieglitz
+Developer: Andrew 'Eve/HermitPal' Von Stieglitz
 
 Music: Joel Taylor
 
