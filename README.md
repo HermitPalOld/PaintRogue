@@ -3,8 +3,8 @@ Download the most recent version [here](https://github.com/hermiteve/PaintRogue/
 
 ## Factsheet
 Developer: 
-HermitPal
-Based in Sydney,Australia
+- HermitPal
+- Based in Sydney,Australia
 
 Platforms:
 - 2019: Windows
