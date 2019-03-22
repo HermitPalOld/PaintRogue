@@ -3,6 +3,8 @@
 ## By HermitPal
 
 ### Credit
+Programmer/Developer: Andrew 'Eve' VS
+
 Music: Joel Taylor
 
 Art: OrayStudios
