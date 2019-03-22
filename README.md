@@ -3,7 +3,6 @@
 ## By HermitPal
 
 ### Credit
-
 Music: Joel Taylor
 
 Art: OrayStudios
@@ -11,12 +10,12 @@ Art: OrayStudios
 Voice: Larutschsworld 
 
 Paint Rogue was made in Gamemaker Studio 2: https://www.yoyogames.com/get
+
 ### Instructions
 Download a zip from projects folder.
 I recommend creating a repo for yourself. 
 
 ### License
-
 Copyright (c) 2019 Andrew Von Stieglitz
 https://creativecommons.org/licenses/by-nc/3.0/au/
 
