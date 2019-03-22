@@ -20,7 +20,14 @@ Copyright (c) 2019 Andrew Von Stieglitz
 https://creativecommons.org/licenses/by-nc/3.0/au/
 
 #### 1. Contact me [@hermitpal](https://twitter.com/HermitPal) and I may provide you with an alternate license.
-#### 2. You may not compile/export to the following platforms:
+
+##### 2. You may not charge money for any variation of this game unless you get permission from me
+
+#### 3. You may not compile/export to the following platforms:
+    Valve Corp. Steam
+    
+    Epic Games Store
+
     Nintendo Switch
     
     Sony PlayStation 4
@@ -37,7 +44,7 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
     
     Any future phone-based operating systems {i.e Android 2.0}
     
-##### 3. You may only compile/export to the following platforms:
+##### 4. You may only compile/export to the following platforms:
     Microsoft Windows 7/8/10+
     
     Apple macOS(X) 10.0+
@@ -46,13 +53,11 @@ https://creativecommons.org/licenses/by-nc/3.0/au/
     
     W3C html5 {+Web Based Platforms}
     
-##### 4. You must attribute by doing the following:
+##### 5. You must attribute by doing the following:
     Keep the credits option
       You can edit the credits screen but musicians, artists and developers names must remain unedited
     Keep the splash screen
       You can edit the splash screen but it must display for more than 0.5 seconds
-      
-##### 5. You may not charge money for any variation of this game unless you get permission from me
 
 ### Thank You ###
 Thanks for downloading and enjoy! <3
