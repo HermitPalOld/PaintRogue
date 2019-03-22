@@ -31,4 +31,4 @@ Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-
 - You can release to itch.io, Kongergate and Newgrounds
 - Keep the credits and splash screen
 
-![](https://github.com/hermiteve/PaintRogue/blob/master/Website/EVE.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
