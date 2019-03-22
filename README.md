@@ -12,3 +12,5 @@ Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-
 - You can compile to Windows Phone and html5
 - You can release to itch.io, Kongergate and Newgrounds
 - Keep the credits and splash screen
+
+Please read licence.txt for complete version
