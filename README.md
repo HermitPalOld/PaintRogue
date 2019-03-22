@@ -31,5 +31,6 @@ Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-
 - You can release to itch.io, Kongergate and Newgrounds
 - Keep the credits and splash screen
 
-![Image of Eve](https://github.com/hermiteve/PaintRogue/blob/master/Website/eve.png?raw=true) | [Twitter](https://twitter.com/HermitPal) 
- | [Pateron](https://www.patreon.com/hermitpal) | [Twitch](https://www.twitch.tv/hermitpal) | [Youtube](https://www.youtube.com/channel/UCg0FxXIGHJp0wVi0UbqypXQ?view_as=subscriber)
+## Social Media
+| ![Image of Eve](https://github.com/hermiteve/PaintRogue/blob/master/Website/eve.png?raw=true) | [Twitter](https://twitter.com/HermitPal) 
+ | [Pateron](https://www.patreon.com/hermitpal) | [Twitch](https://www.twitch.tv/hermitpal) | [Youtube](https://www.youtube.com/channel/UCg0FxXIGHJp0wVi0UbqypXQ?view_as=subscriber) |
