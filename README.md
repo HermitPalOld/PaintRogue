@@ -2,7 +2,7 @@
 ## By HermitPal
 
 ### Credit
-Programmer,Designer,Animator & SoundFx Creator: Andrew 'Eve' 'HermitPal' Von Stieglitz
+Creator: Andrew 'Eve' 'HermitPal' Von Stieglitz
 
 Music: Joel Taylor
 
