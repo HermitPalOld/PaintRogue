@@ -1,8 +1,7 @@
 # Paint Rogue
 ## By HermitPal
-
+###Animation,SoundFx,Programming,Design
 ### Credit
-Developer: HermitPal
 
 Music: Joel Taylor
 
