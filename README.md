@@ -7,11 +7,9 @@ HermitPal
 Based in Sydney,Australia
 
 Platforms:
-- Late 2019: Windows
+- 2019: Windows
 
-- Early 2020: macOS
-
-- Late 2020 {expected}: Switch,Xbox,Playstation,Ubuntu
+- 2020: Switch,Xbox,Playstation,Ubuntu,macOS
 
 Regular Price:
 
