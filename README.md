@@ -1,5 +1,11 @@
+# HermitPal
+
 ## Download
 Download the most recent version [here](https://github.com/hermiteve/PaintRogue/releases).
+
+## Factsheet
+
+
 
 ## Licence
 Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-nc/3.0/au/ 
@@ -12,5 +18,5 @@ Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-
 - You can compile to Windows Phone and html5
 - You can release to itch.io, Kongergate and Newgrounds
 - Keep the credits and splash screen
+- Please read licence.txt for complete version
 
-Please read licence.txt for complete version
