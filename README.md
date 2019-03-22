@@ -1,6 +1,6 @@
 # Paint Rogue
 ## By HermitPal
-Programmer,Designer,Animator,Sfx,Art,Music,Voice,
+Andrew 'Eve' 'HermitPal' Von Stieglitz: Programmer,Designer,Animator & SoundFx Creator
 
 ### Credit
 Music: Joel Taylor
