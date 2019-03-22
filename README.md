@@ -10,17 +10,17 @@ Release Date:
 2019-2020
 
 Platforms:
--Late 2019: Windows
+- Late 2019: Windows
 
--Early 2020: macOS
+- Early 2020: macOS
 
--Late 2020 {expected}: Switch,Xbox,Playstation,Ubuntu
+- Late 2020 {expected}: Switch,Xbox,Playstation,Ubuntu
 
 Regular Price:
 
--Free: Windows,macOS,Ubuntu
+- Free: Windows,macOS,Ubuntu
 
--USD 9.99: Xbox,Switch and Playstation
+- USD 9.99: Xbox,Switch and Playstation
 
 
 ## Licence
