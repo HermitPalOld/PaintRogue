@@ -2,7 +2,22 @@
 Download the most recent version [here](https://github.com/hermiteve/PaintRogue/releases).
 
 ## Factsheet
+Developer: 
+HermitPal
+Based in Sydney,Australia
 
+Release Date:
+2019-2020
+
+Platforms:
+Late 2019: Windows
+Early 2020: macOS,Ubuntu
+Late 2020 {expected}: Switch,Xbox,Playstation
+
+Regular Price:
+
+Free: Windows,macOS,Ubuntu
+USD 9.99: Xbox,Switch and Playstation
 
 
 ## Licence
