@@ -2,11 +2,11 @@
 ## By HermitPal
 
 ### Credit
-Developer: Andrew 'Eve/HermitPal' Von Stieglitz
+Developer: HermitPal/Andrew{Eve}
 
 Music: Joel Taylor
 
-Art: OrayStudios
+Art: OrayStudios && cvs2002/Charlotte
 
 Voice: Larutschsworld 
 
