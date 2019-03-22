@@ -20,6 +20,7 @@ Regular Price:
 
 ## Licence
 Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-nc/3.0/au/ 
+- Please read licence.txt for complete version
 - If you want the agreement to change contact me.
 - Without permession please don't make commercial releases of this project.
 - Don't compile/export to Xbox,Switch and Playstation
@@ -29,5 +30,5 @@ Copyright (c) 2019 Andrew Von Stieglitz https://creativecommons.org/licenses/by-
 - You can compile to Windows Phone and html5
 - You can release to itch.io, Kongergate and Newgrounds
 - Keep the credits and splash screen
-- Please read licence.txt for complete version
+
 
