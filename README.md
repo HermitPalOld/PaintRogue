@@ -12,9 +12,9 @@ Release Date:
 Platforms:
 -Late 2019: Windows
 
--Early 2020: macOS,Ubuntu
+-Early 2020: macOS
 
--Late 2020 {expected}: Switch,Xbox,Playstation
+-Late 2020 {expected}: Switch,Xbox,Playstation,Ubuntu
 
 Regular Price:
 
